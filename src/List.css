@@ -48,3 +48,6 @@
     cursor: pointer;
   }
   
+  .List {
+    min-width: 218px;
+  }
